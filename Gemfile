@@ -12,7 +12,7 @@ gem "puma", ">= 5.0"
 gem "jsbundling-rails"
 # Hotwire's SPA-like page accelerator [https://turbo.hotwired.dev]
 # gem "turbo-rails"
-gem "turbo-rails", "~> 1.0"
+gem "turbo-rails", "~> 2.0"
 # Hotwire's modest JavaScript framework [https://stimulus.hotwired.dev]
 gem "stimulus-rails"
 # Bundle and process CSS [https://github.com/rails/cssbundling-rails]
